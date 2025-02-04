@@ -18,7 +18,7 @@ Once started, Flowise should be accessible at http://localhost:3000.
 
 Then setup the credentials for the Custom Tool.
 
-![alt text](image/image-4.png)
+<img src="image/image-4.png" alt="Description" width="500">
 
 FInally, setting up the chatflow for the Agent.
 
@@ -30,11 +30,11 @@ FInally, setting up the chatflow for the Agent.
 
 In the chat section, enter a list of some companies and then return the stock values of each companies.
 
-![alt text](image/image-3.png)
+<img src="image/image-3.png" alt="Description" width="300">
 
-We compare with the real data from other sources like Google. 
+We compare with the real data from other information sources like Google to evaluate the AI model. 
 
-![alt text](image/image-1.png)
+<img src="image/image-1.png" alt="Description" width="800">
 
 ## 3️⃣ Code explaination
 
